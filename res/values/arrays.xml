@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array 
+        name = "yunziPower">
+        <item>最低（-30db）</item>
+        <item>较低（-16db）</item>
+        <item>中等（-8db）</item>
+        <item>较高（0db）</item>
+        <item>最高（+4db）</item>
+    </string-array>
+    <string-array name = "yunziadvertize">
+        <item>最低（1285ms）</item>
+        <item>较低（852.5ms）</item>
+        <item>中等（417.5ms）</item>
+        <item>较高(211.25ms)）</item>
+        <item>最高（100ms）</item>
+    </string-array>
+    <string-array 
+        name = "temperature_frequency">
+        <item>关闭</item>
+        <item>1秒</item>
+        <item>2秒</item>
+        <item>5秒</item>
+        <item>10秒</item>
+        <item>30秒</item>
+        <item>60秒</item>
+    </string-array>
+    <string-array 
+        name = "light_frequency">
+        <item>关闭</item>
+        <item>1秒</item>
+        <item>2秒</item>
+        <item>5秒</item>
+        <item>10秒</item>
+        <item>30秒</item>
+        <item>60秒</item>
+    </string-array>
+    <string-array name="accelerate_frequency">
+        <item > 关闭</item>
+        <item >最低</item>
+        <item >中等</item>
+        <item >最高</item>
+    </string-array>
+    <string-array name="adv_interval_spin">
+    	<item>-1:无效</item>
+    	<item>10:100ms</item>  
+   	 	<item>30:300ms</item>  
+    	<item>50:500ms</item>  
+    	<item>75:750ms</item> 
+    	<item>200:2s</item> 
+    </string-array>
+    <string-array name="tx_power_spin">
+    	<item>-1:无效</item>
+    	<item>4:4db</item>  
+    	<item>0:0db</item>  
+    	<item>-4:-4db</item>  
+    	<item>-8:-8db</item>  
+    	<item>-12:-12db</item>
+    	<item>-16:-16db</item>
+    	<item>-20:-20db</item>
+    </string-array>
+    <string-array name="reset_spin">
+    	<item>-1:无效</item>
+    	<item>1:休眠</item>  
+    	<item>0:唤醒</item>  
+    </string-array>
+    <string-array name="timer_spin">
+    	<item>-1:无效</item>
+    	<item>1:100ms</item>  
+    	<item>2:200ms</item>  
+    	<item>3:300ms</item>  
+    	<item>4:400ms</item>  
+    	<item>5:500ms</item>
+    </string-array>
+</resources>

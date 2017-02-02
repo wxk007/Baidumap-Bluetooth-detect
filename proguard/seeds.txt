@@ -1,0 +1,242 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+com.whh.beaconsdk.BatchBurnActivity
+com.whh.beaconsdk.BatchBurnActivity: BatchBurnActivity()
+com.whh.beaconsdk.BatchConfigActivity
+com.whh.beaconsdk.BatchConfigActivity: BatchConfigActivity()
+com.whh.beaconsdk.BeaconModify
+com.whh.beaconsdk.BeaconModify: BeaconModify()
+com.whh.beaconsdk.MainActivity
+com.whh.beaconsdk.MainActivity: MainActivity()
+com.whh.beaconsdk.R$array: int accelerate_frequency
+com.whh.beaconsdk.R$array: int light_frequency
+com.whh.beaconsdk.R$array: int temperature_frequency
+com.whh.beaconsdk.R$array: int yunziPower
+com.whh.beaconsdk.R$array: int yunziadvertize
+com.whh.beaconsdk.R$color: int config_name_bg_color
+com.whh.beaconsdk.R$color: int config_vlaue_color
+com.whh.beaconsdk.R$color: int contents_text
+com.whh.beaconsdk.R$color: int encode_view
+com.whh.beaconsdk.R$color: int ibeacon_attribute_name
+com.whh.beaconsdk.R$color: int ibeacon_attribute_value
+com.whh.beaconsdk.R$color: int lightgreen
+com.whh.beaconsdk.R$color: int possible_result_points
+com.whh.beaconsdk.R$color: int result_minor_text
+com.whh.beaconsdk.R$color: int result_points
+com.whh.beaconsdk.R$color: int result_text
+com.whh.beaconsdk.R$color: int result_view
+com.whh.beaconsdk.R$color: int status_text
+com.whh.beaconsdk.R$color: int tablelayout
+com.whh.beaconsdk.R$color: int tablelayoutrow
+com.whh.beaconsdk.R$color: int transparent
+com.whh.beaconsdk.R$color: int viewfinder_laser
+com.whh.beaconsdk.R$color: int viewfinder_mask
+com.whh.beaconsdk.R$dimen: int activity_horizontal_margin
+com.whh.beaconsdk.R$dimen: int activity_vertical_margin
+com.whh.beaconsdk.R$dimen: int activity_vertical_margin_bottom
+com.whh.beaconsdk.R$dimen: int activity_vertical_margin_top
+com.whh.beaconsdk.R$dimen: int config_font_size
+com.whh.beaconsdk.R$dimen: int config_name_font_size
+com.whh.beaconsdk.R$dimen: int config_title_left_margin
+com.whh.beaconsdk.R$dimen: int config_value_font_size
+com.whh.beaconsdk.R$dimen: int dfu_title_left_margin
+com.whh.beaconsdk.R$dimen: int feature_horizontal_margin
+com.whh.beaconsdk.R$dimen: int feature_section_padding
+com.whh.beaconsdk.R$dimen: int feature_vertical_margin_top
+com.whh.beaconsdk.R$dimen: int ibeacon_attribute_interval
+com.whh.beaconsdk.R$dimen: int ibeacon_attribute_name_size
+com.whh.beaconsdk.R$dimen: int ibeacon_attribute_value_size
+com.whh.beaconsdk.R$dimen: int item_height
+com.whh.beaconsdk.R$dimen: int preference_icon_minWidth
+com.whh.beaconsdk.R$dimen: int preference_item_padding_inner
+com.whh.beaconsdk.R$dimen: int preference_item_padding_side
+com.whh.beaconsdk.R$dimen: int update_title_left_margin
+com.whh.beaconsdk.R$dimen: int uuid_textSize
+com.whh.beaconsdk.R$drawable: int background
+com.whh.beaconsdk.R$drawable: int conn
+com.whh.beaconsdk.R$drawable: int disconn
+com.whh.beaconsdk.R$drawable: int earth_scan
+com.whh.beaconsdk.R$drawable: int frame
+com.whh.beaconsdk.R$drawable: int ic_action_save
+com.whh.beaconsdk.R$drawable: int ic_action_setting
+com.whh.beaconsdk.R$drawable: int ic_launch
+com.whh.beaconsdk.R$drawable: int ic_list
+com.whh.beaconsdk.R$drawable: int ic_setting
+com.whh.beaconsdk.R$drawable: int icon
+com.whh.beaconsdk.R$drawable: int icon_arrow
+com.whh.beaconsdk.R$drawable: int icon_back
+com.whh.beaconsdk.R$drawable: int icon_beacon_a
+com.whh.beaconsdk.R$drawable: int icon_beacon_b
+com.whh.beaconsdk.R$drawable: int icon_calendar
+com.whh.beaconsdk.R$drawable: int icon_home
+com.whh.beaconsdk.R$drawable: int icon_item_select
+com.whh.beaconsdk.R$drawable: int icon_loading
+com.whh.beaconsdk.R$drawable: int icon_page
+com.whh.beaconsdk.R$drawable: int icon_page_selected
+com.whh.beaconsdk.R$drawable: int icon_profile
+com.whh.beaconsdk.R$drawable: int icon_rssi1
+com.whh.beaconsdk.R$drawable: int icon_rssi2
+com.whh.beaconsdk.R$drawable: int icon_rssi3
+com.whh.beaconsdk.R$drawable: int icon_rssi4
+com.whh.beaconsdk.R$drawable: int icon_rssi5
+com.whh.beaconsdk.R$drawable: int icon_rssi6
+com.whh.beaconsdk.R$drawable: int icon_settings
+com.whh.beaconsdk.R$drawable: int menu_background
+com.whh.beaconsdk.R$drawable: int setsave
+com.whh.beaconsdk.R$drawable: int shadow
+com.whh.beaconsdk.R$drawable: int smartset
+com.whh.beaconsdk.R$drawable: int title_bar_menu
+com.whh.beaconsdk.R$id: int ID
+com.whh.beaconsdk.R$id: int action_settings
+com.whh.beaconsdk.R$id: int advertise_container
+com.whh.beaconsdk.R$id: int advertise_modify
+com.whh.beaconsdk.R$id: int advertise_title
+com.whh.beaconsdk.R$id: int attr_value
+com.whh.beaconsdk.R$id: int batch_burn_count
+com.whh.beaconsdk.R$id: int batch_count
+com.whh.beaconsdk.R$id: int batch_count2
+com.whh.beaconsdk.R$id: int begin_btn
+com.whh.beaconsdk.R$id: int burn_attr_info
+com.whh.beaconsdk.R$id: int canbeconnected
+com.whh.beaconsdk.R$id: int cb_minor
+com.whh.beaconsdk.R$id: int disconnect
+com.whh.beaconsdk.R$id: int distance
+com.whh.beaconsdk.R$id: int err_burn_info
+com.whh.beaconsdk.R$id: int major
+com.whh.beaconsdk.R$id: int major_minor_container
+com.whh.beaconsdk.R$id: int major_modify
+com.whh.beaconsdk.R$id: int major_title
+com.whh.beaconsdk.R$id: int minor
+com.whh.beaconsdk.R$id: int minor_batch
+com.whh.beaconsdk.R$id: int minor_modify
+com.whh.beaconsdk.R$id: int minor_title
+com.whh.beaconsdk.R$id: int outcome_layout
+com.whh.beaconsdk.R$id: int progerssBar
+com.whh.beaconsdk.R$id: int progerss_bar_layout
+com.whh.beaconsdk.R$id: int progressScan
+com.whh.beaconsdk.R$id: int progressScantext
+com.whh.beaconsdk.R$id: int rssi
+com.whh.beaconsdk.R$id: int rssi_container
+com.whh.beaconsdk.R$id: int rssi_modify
+com.whh.beaconsdk.R$id: int rssi_title
+com.whh.beaconsdk.R$id: int rssi_unit
+com.whh.beaconsdk.R$id: int transmit_container
+com.whh.beaconsdk.R$id: int transmit_modify
+com.whh.beaconsdk.R$id: int transmit_title
+com.whh.beaconsdk.R$id: int uuid_container
+com.whh.beaconsdk.R$id: int uuid_modify
+com.whh.beaconsdk.R$id: int uuid_title
+com.whh.beaconsdk.R$id: int yunzilist
+com.whh.beaconsdk.R$layout: int activity_batch_burn
+com.whh.beaconsdk.R$layout: int activity_batch_config
+com.whh.beaconsdk.R$layout: int activity_beacon_modify
+com.whh.beaconsdk.R$layout: int activity_main
+com.whh.beaconsdk.R$layout: int attr_modify_dialog
+com.whh.beaconsdk.R$layout: int beaconadapter
+com.whh.beaconsdk.R$menu: int beacon_modify
+com.whh.beaconsdk.R$menu: int main
+com.whh.beaconsdk.R$string: int ID
+com.whh.beaconsdk.R$string: int action_settings
+com.whh.beaconsdk.R$string: int app_name
+com.whh.beaconsdk.R$string: int beaconPassword
+com.whh.beaconsdk.R$string: int distance
+com.whh.beaconsdk.R$string: int hello_world
+com.whh.beaconsdk.R$string: int ibeacon_attribute
+com.whh.beaconsdk.R$string: int ibeacon_list
+com.whh.beaconsdk.R$string: int title_activity_beacon_modify
+com.whh.beaconsdk.R$string: int title_activity_yun_zi
+com.whh.beaconsdk.R$string: int title_activity_yunzi_modify
+com.whh.beaconsdk.R$string: int update_connect_subtitle
+com.whh.beaconsdk.R$string: int update_connect_title
+com.whh.beaconsdk.R$string: int update_error_device_not_supported
+com.whh.beaconsdk.R$string: int update_error_other
+com.whh.beaconsdk.R$string: int update_major
+com.whh.beaconsdk.R$string: int update_minor
+com.whh.beaconsdk.R$string: int update_rssi
+com.whh.beaconsdk.R$string: int update_rssi_unit
+com.whh.beaconsdk.R$string: int update_title
+com.whh.beaconsdk.R$string: int update_uuid
+com.whh.beaconsdk.R$style: int AppBaseTheme
+com.whh.beaconsdk.R$style: int AppTheme
+com.lef.ibeacon.IBeaconIntentProcessor
+com.lef.ibeacon.IBeaconIntentProcessor: IBeaconIntentProcessor()
+com.lef.ibeacon.service.IBeaconService
+com.lef.ibeacon.service.IBeaconService: IBeaconService()
+com.lef.ibeacon.service.MonitoringData
+com.lef.ibeacon.service.MonitoringData: android.os.Parcelable$Creator CREATOR
+com.lef.ibeacon.service.RangingData
+com.lef.ibeacon.service.RangingData: android.os.Parcelable$Creator CREATOR
+com.lef.ibeacon.service.RegionData
+com.lef.ibeacon.service.RegionData: android.os.Parcelable$Creator CREATOR
+com.lef.ibeacon.service.StartRMData
+com.lef.ibeacon.service.StartRMData: android.os.Parcelable$Creator CREATOR
+com.lef.ibeacon.service.UpdateService
+com.lef.ibeacon.service.UpdateService: UpdateService()
+com.lef.scanner.BaseSettings$AdvertisingInterval: com.lef.scanner.BaseSettings$AdvertisingInterval[] values()
+com.lef.scanner.BaseSettings$AdvertisingInterval: com.lef.scanner.BaseSettings$AdvertisingInterval valueOf(java.lang.String)
+com.lef.scanner.BaseSettings$TransmitPower: com.lef.scanner.BaseSettings$TransmitPower[] values()
+com.lef.scanner.BaseSettings$TransmitPower: com.lef.scanner.BaseSettings$TransmitPower valueOf(java.lang.String)
+com.lef.scanner.IBeaconData
+com.lef.scanner.IBeaconData: android.os.Parcelable$Creator CREATOR

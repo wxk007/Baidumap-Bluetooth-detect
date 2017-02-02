@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XiangBeacon追踪</string>
+    <string name="ibeacon_list">beacon列表</string>
+    <string name="ibeacon_attribute">beacon设置</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="distance"></string>
+    <string name="ID">ID</string>
+    <string name="title_activity_yunzi_modify">修改配置</string>
+    <string name="title_activity_yun_zi">YunZiActivity</string>
+    <string name="title_activity_beacon_modify">BeaconModify</string>
+    <string name="update_title">MODIFY BEACON PROPERTIES</string>
+    <string name="update_uuid1">UUID1</string>
+    <string name="update_major1">MAJOR1</string>
+    <string name="update_minor1">MINOR1</string>
+    <string name="update_uuid2">UUID2</string>
+    <string name="update_major2">MAJOR2</string>
+    <string name="update_minor2">MINOR2</string>
+    <string name="update_rssi">距离：</string>
+    <string name="update_rssi_unit">m</string>
+    <string name="update_connect_title">Connect to the beacon</string>
+    <string name="update_connect_subtitle">Touch to see how to enable Config Mode.</string>
+    <string name="update_error_device_not_supported">Required service has not been found. Restart Bluetooth and try again.</string>
+    <string name="update_error_other">Error %d occurred.</string>
+	<string name="beaconPassword">01</string>
+	<string name="default_passwd">原始密码:</string>
+	<string name="change_passwd">新密码：</string>
+	<string name="title_activity_changepasswd">更改密码</string>
+</resources>

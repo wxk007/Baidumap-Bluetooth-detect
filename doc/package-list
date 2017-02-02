@@ -1,0 +1,5 @@
+com.lef.bluetooth
+com.lef.client
+com.lef.ibeacon
+com.lef.ibeacon.simulator
+com.lef.scanner

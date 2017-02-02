@@ -1,0 +1,42 @@
+# view AndroidManifest.xml #generated:118
+-keep class com.baidu.location.f { <init>(...); }
+
+# view res/layout/activity_heatmap.xml #generated:36
+-keep class com.baidu.mapapi.map.MapView { <init>(...); }
+
+# view AndroidManifest.xml #generated:106
+-keep class com.lef.ibeacon.IBeaconIntentProcessor { <init>(...); }
+
+# view AndroidManifest.xml #generated:99
+-keep class com.lef.ibeacon.service.IBeaconService { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.lef.ibeacon.service.UpdateService { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class com.whh.beaconsdk.BaseMapDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class com.whh.beaconsdk.BatchBurnActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:150
+-keep class com.whh.beaconsdk.BatchConfigActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:140
+-keep class com.whh.beaconsdk.BeaconModify { <init>(...); }
+
+# view AndroidManifest.xml #generated:144
+-keep class com.whh.beaconsdk.ChangePasswdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class com.whh.beaconsdk.FirstActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:134
+-keep class com.whh.beaconsdk.HeatMapDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class com.whh.beaconsdk.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class publicdata.PublicData { <init>(...); }
+
